@@ -1,4 +1,4 @@
-📊 Desafio de Classificação da [TERA](https://somostera.com/)
+# 📊 Desafio de Classificação da [TERA](https://somostera.com/)
 
 Este desafio é parte da minha formação na pós-graduação de [Data Science & Machine Learning](https://somostera.com/cursos/data-science-machine-learning) da TERA.
 
